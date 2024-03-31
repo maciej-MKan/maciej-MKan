@@ -3,6 +3,8 @@
 <h3><i> I don't know why you came here, but you must know something about me.
 There are 2 loves in my life (except my wife of course</i> 😚<i>). Electronics and programming. For the last several years I have led the life of an electronics engineer, but the time has come for a change of mistress. In 2021, I decided to become a professional backend developer. Therefore, I started learning Python and Java along with their popular frameworks. What you see here is the fruit of that science. Enjoy and comment if you like</i> 😁 <i>. </h3> </i>
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maciej-MKan&show_icons=true&locale=en&layout=compact" alt="maciej-MKan" />
+
 ![](https://komarev.com/ghpvc/?username=maciej-MKan)
 
 <!--
