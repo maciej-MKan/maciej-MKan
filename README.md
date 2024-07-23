@@ -1,7 +1,10 @@
 ## Hi, I'm Maciej.
 
-<h3><i> I don't know why you came here, but you must know something about me.
-There are 2 loves in my life (except my wife of course</i> 😚<i>). Electronics and programming. For the last several years I have led the life of an electronics engineer, but the time has come for a change of mistress. In 2021, I decided to become a professional backend developer. Therefore, I started learning Python and Java along with their popular frameworks. What you see here is the fruit of that science. Enjoy and comment if you like</i> 😁 <i>. </h3> </i>
+<h3><i> Welcome to my profile! Let me tell you a bit about myself. There are two passions in my life (aside from my wife, of course 😚): electronics and programming. For the last several years, I've been working as an electronics engineer, but in 2021, I decided to transition to a new challenge and become a professional backend developer.
+
+I am a dedicated and ambitious programmer with a strong focus on Java, which is my primary language. I also have experience working with Python and JavaScript/TypeScript, along with their popular frameworks. What you see here is the result of my hard work and dedication to mastering these technologies.
+
+Feel free to explore my projects, and don't hesitate to leave a comment if you like what you see 😁.</i></h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maciej-MKan&show_icons=true&locale=en&layout=compact" alt="maciej-MKan" />
 
