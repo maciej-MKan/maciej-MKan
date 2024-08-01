@@ -10,6 +10,8 @@ Feel free to explore my projects, and don't hesitate to leave a comment if you l
 
 ![](https://komarev.com/ghpvc/?username=maciej-MKan)
 
+
+
 <!--
 **maciej-MKan/maciej-MKan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
