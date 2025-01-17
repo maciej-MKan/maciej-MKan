@@ -1,10 +1,10 @@
-## Hi, I'm Maciej.
+## Hi there! 👋
 
-<h3><i> Welcome to my profile! Let me tell you a bit about myself. There are two passions in my life (aside from my wife, of course 😚): electronics and programming. For the last several years, I've been working as an electronics engineer, but in 2021, I decided to transition to a new challenge and become a professional backend developer.
+<h3><i>I'm a passionate programmer who loves solving problems and creating efficient solutions. My primary focus is Java, but I also have experience working with TypeScript, Python, and other tools that help bring ideas to life. Programming isn't just my profession—it's my true passion.
 
-I am a dedicated and ambitious programmer with a strong focus on Java, which is my primary language. I also have experience working with Python and JavaScript/TypeScript, along with their popular frameworks. What you see here is the result of my hard work and dedication to mastering these technologies.
+Here on my profile, you'll find projects that showcase my journey in mastering these technologies. I’m constantly learning, improving, and striving to write clean, maintainable code.
 
-Feel free to explore my projects, and don't hesitate to leave a comment if you like what you see 😁.</i></h3>
+Feel free to explore my work and leave a comment if something catches your eye. Thanks for stopping by! 😊</i></h3>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maciej-MKan&show_icons=true&locale=en&layout=compact" alt="maciej-MKan" />
 
